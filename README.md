@@ -4,7 +4,7 @@ PromptGuard-RedLLM is a security testing and defense project for LLM agents. The
 
 ## Video Presentation
 
-[Watch the 5-Minute Project Walkthrough](VIDEO_LINK_HERE)
+[Watch the 5-Minute Project Walkthrough](https://youtu.be/iaka-gPp4mg)
 
 ## My Contributions
 
